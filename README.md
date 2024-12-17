@@ -31,7 +31,7 @@ Para criar cabeçalhos, utilize o símbolo `#`:
 # Cabeçalho de Nível 1
 ## Cabeçalho de Nível 2
 ### Cabeçalho de Nível 3
-
+```
 
 
 #Listas
@@ -49,3 +49,14 @@ Copiar código
 1. Primeiro item
 2. Segundo item
 3. Terceiro item
+
+
+Tabelas
+Crie tabelas utilizando o caractere | para separar as colunas:
+
+
+Copiar código
+| Coluna 1 | Coluna 2 | Coluna 3 |
+|----------|----------|----------|
+| Linha 1  | Dado 1   | Dado 2   |
+| Linha 2  | Dado 3   | Dado 4   |

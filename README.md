@@ -12,14 +12,4 @@ O **Desafio GitHub Markdown** tem como objetivo:
 
 ## Diferentes Formatações no Markdown
 
-Aqui estão alguns exemplos de como utilizar o Markdown de maneira eficiente:
-
-### Cabeçalhos
-
-Você pode usar cabeçalhos de diferentes níveis com o uso do símbolo `#`. Por exemplo:
-
-```markdown
-# Cabeçalho de Nível 1
-## Cabeçalho de Nível 2
-### Cabeçalho de Nível 3
-
+Existem diferentes tipos de formatação para se utilizar em um README

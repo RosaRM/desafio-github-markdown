@@ -56,3 +56,5 @@ Crie tabelas utilizando o caractere | para separar as colunas:
 |----------|----------|----------|
 | Linha 1  | Dado 1   | Dado 2   |
 | Linha 2  | Dado 3   | Dado 4   |
+
+O Elton passou aqui!

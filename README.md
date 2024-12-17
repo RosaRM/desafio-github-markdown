@@ -34,28 +34,24 @@ Para criar cabeçalhos, utilize o símbolo `#`:
 ```
 
 
-#Listas
-Lista Não Ordenada
+## Listas
+### Lista Não Ordenada
 Utilize -, * ou + para listas não ordenadas:
 - Item 1
 - Item 2
 - Item 3
 
-Lista Ordenada
+### Lista Ordenada
 Utilize números seguidos de ponto para listas ordenadas:
 
-
-Copiar código
 1. Primeiro item
 2. Segundo item
 3. Terceiro item
 
 
-Tabelas
+## Tabelas
 Crie tabelas utilizando o caractere | para separar as colunas:
 
-
-Copiar código
 | Coluna 1 | Coluna 2 | Coluna 3 |
 |----------|----------|----------|
 | Linha 1  | Dado 1   | Dado 2   |
